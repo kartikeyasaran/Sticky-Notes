@@ -3,9 +3,9 @@ Sticky Notes is open source application for linux. In linux systems like kali an
 ---------
 
 # Some Screenshot of the Application 
-1.
-2.
-3.
+1. ![Hello World](https://github.com/CodeYard01/Sticky-Notes/blob/main/Screenshot_2023-12-20_21_40_17.png)
+2. ![I am Sticky!](https://github.com/CodeYard01/Sticky-Notes/blob/main/Screenshot_2023-12-20_21_41_15.png)
+3. ![Note Your Day](https://github.com/CodeYard01/Sticky-Notes/blob/main/Screenshot_2023-12-20_21_42_11.png)
 
 # Features :
 The list of features is here :
@@ -38,9 +38,9 @@ your Notes will automatically get their place on the desktop when you turns on y
 # Downloading the Application :)
 
 the downloading process is so simple You can download it Just pasting this command
-git clone (https://github.com/CodeYard01/Sticky-Notes.git)
-cd Sticky Notes
-python3 setup.py
+1. git clone (https://github.com/CodeYard01/Sticky-Notes.git)
+2. cd Sticky Notes
+3. python3 setup.py
 
 # Pre Requirements of the App :
 1. python must be installed on the terminal of the System.
