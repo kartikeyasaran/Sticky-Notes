@@ -1,4 +1,4 @@
-#Sticky Notes 
+# Sticky Notes 
 Sticky Notes is open source application for linux. In linux systems like kali and others we don't have a sticky notes option so this open source project is made for that and for contributor most welcome to this platform.
 ---------
 
