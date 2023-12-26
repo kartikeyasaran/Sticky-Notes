@@ -3,9 +3,9 @@ Sticky Notes is open source application for linux. In linux systems like kali an
 ---------
 
 # Some Screenshot of the Application 
-![Hello World!](https://github.com/CodeYard01/Sticky-Notes/blob/main/Screenshot_2023-12-20_21_40_17.png?raw=true)
-![I am Sticky!](https://github.com/CodeYard01/Sticky-Notes/blob/main/Screenshot_2023-12-20_21_41_15.png)
-![Note Your Day](https://github.com/CodeYard01/Sticky-Notes/blob/main/Screenshot_2023-12-20_21_42_11.png)
+![Hello World!](https://github.com/CodeYard01/Sticky-Notes/blob/7271a84974ec4978296e3c083a8675c7ccd1c6f1/Sample1.jpg)
+![I am Sticky!](https://github.com/CodeYard01/Sticky-Notes/blob/7271a84974ec4978296e3c083a8675c7ccd1c6f1/Sample2.jpg)
+![Note Your Day](https://github.com/CodeYard01/Sticky-Notes/blob/7271a84974ec4978296e3c083a8675c7ccd1c6f1/Sample3.jpg)
 
 # Features :
 The list of features is here :
