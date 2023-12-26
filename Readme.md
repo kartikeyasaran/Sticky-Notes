@@ -43,8 +43,8 @@ the downloading process is so simple You can download it Just pasting this comma
 3. python3 Main.py
 
 # Pre Requirements of the App :
-1. Python : ![Python]('https://camo.githubusercontent.com/95e77c11ae77003f5682f73dca573514c73858a237500240ef9661488c13d5a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465')
-2. python libraries : PyQt5
+1. ![Python]('https://www.python.org/')
+2. ![PyQt5]('https://pypi.org/project/PyQt5/')
 
 # If you need assitance or help :
 If you need any assitance or help for the app you can go in issue section. please check if it pre resolved then go for it else you can submit an issue with commant 'help:' at the starting you will get solution as soon as possible .
