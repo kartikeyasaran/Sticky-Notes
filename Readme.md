@@ -1,25 +1,28 @@
-# Sticky Notes 
+# 📓 Sticky Notes 
 Sticky Notes is open source application for linux. In linux systems like kali and others we don't have a sticky notes option so this open source project is made for that and for contributor most welcome to this platform.
 ---------
 
 # Some Screenshot of the Application 
-![Hello World!](https://github.com/CodeYard01/Sticky-Notes/blob/7271a84974ec4978296e3c083a8675c7ccd1c6f1/Sample1.jpg)
-![I am Sticky!](https://github.com/CodeYard01/Sticky-Notes/blob/7271a84974ec4978296e3c083a8675c7ccd1c6f1/Sample2.jpg)
-![Note Your Day](https://github.com/CodeYard01/Sticky-Notes/blob/7271a84974ec4978296e3c083a8675c7ccd1c6f1/Sample3.jpg)
+![](https://github.com/CodeYard01/Sticky-Notes/blob/1511ebd207eed0c242feecfec81ce57b819a251b/Sample1.jpg)
+.........................................................................................................
+![](https://github.com/CodeYard01/Sticky-Notes/blob/1511ebd207eed0c242feecfec81ce57b819a251b/Sample2.jpg)
+.........................................................................................................
+![](https://github.com/CodeYard01/Sticky-Notes/blob/1511ebd207eed0c242feecfec81ce57b819a251b/Sample3.jpg)
+.........................................................................................................
 
-# Features :
+#  ⭐ Features :
 The list of features is here :
-# Adding the Notes:
+#  📋 Adding the Notes:
 you can add a note simply by clicking on add icon in the mid position which creates a new note for you.
 
-# Deleting the Notes:
+#  🔴Deleting the Notes:
 you can delete any unusual note that you don't want by clicking on the delete icon.
 NOTE: After deleting the note. It cannot retrived by user.
 
-# Selecting the Color :
+# 💥Selecting the Color :
 This application has an amazing feature that You can choose you own color of your note by pressing the note icon at corner of the window and by default it creates notes with difeferent and beautiful colors or can change them also.
 
-# Moving the Notes :
+# ↕ Moving the Notes :
 All the Notes are of the same width and height so you can move them just by clicking on the top of the note and drag it place where you want it. 
 
 # Remembering the Notes : 
@@ -28,7 +31,7 @@ This application have capability to remember what you wrote even if you close th
 # Booting with Power on :
 your Notes will automatically get their place on the desktop when you turns on your computer or laptop.
 
-# Upcoming Features :
+# ⭐ Upcoming Features :
 #1.cloud saving the notes and getting back them after login.
 #2.multiple themes for users 
 #3.A Panel to Manage all the notes
