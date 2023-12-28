@@ -71,6 +71,6 @@ Icons from : <a href="https://www.flaticon.com/free-icons/trash" title="trash ic
 =====================================================================
 # Thanks for Visiting !
 
-# Youtube : CodeYard
+# Youtube : https://www.youtube.com/@Code_Yard 
 # GitHub : @CodeYard01
 # Email : kartiksaran07@gmail.com
