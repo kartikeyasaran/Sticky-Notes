@@ -65,6 +65,8 @@ If you are open source contributor welcome to you this project you contribut her
 
 5. Use the 'Other :' tag for all other works.
 
+It is Good to Contribute but remember Your Contributions Must Satisfy the Requirements of 'CONTRIBUTING.md'
+
 # Attribution 
 Icons from : <a href="https://www.flaticon.com/free-icons/trash" title="trash icons">Trash icons created by Freepik - Flaticon</a>
 
