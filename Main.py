@@ -68,17 +68,23 @@ class Main(QtWidgets.QMainWindow):
         del_window_id()
         n = 1
         file_path = f'notes_{self.window_id}.notes'
-        with open (file_path, 'w') as file:
-            file.write('')
-        with open(file_path, 'r') as file_r:
-                text_content = file_r.read()
-                if len(text_content) < 2:
-                    for i in range(int(window_id)+900):
-                        try:
-                            os.rename(f'notes_{self.window_id+n}.notes',f'notes_{self.window_id+n-1}.notes')
-                            n += 1
-                        except FileNotFoundError:
-                            pass
+        
+        
+        if os.path.exists(file_path):
+            with open(file_path, 'w') as file:
+                file.write('')
+        
+        # Shift remaining note files
+        for i in range(int(window_id) + 900):
+            source_file = f'notes_{self.window_id + n}.notes'
+            target_file = f'notes_{self.window_id + n - 1}.notes'
+            try:
+                if os.path.exists(target_file):
+                    os.remove(target_file)  # Remove to avoid conflicts
+                os.rename(source_file, target_file)
+                n += 1
+            except FileNotFoundError:
+                break 
     def mousePressEvent(self, event):
         if event.button() == QtCore.Qt.LeftButton:
             self.offset = event.pos()
